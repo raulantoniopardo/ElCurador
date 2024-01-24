@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElCurador", "ElCurador\ElCurador.csproj", "{C20FDAFC-5079-4583-87F6-152F89C45890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElCuradorTest", "ElCuradorTest\ElCuradorTest.csproj", "{06A14AB9-782E-4456-BF65-40CEDC4E02C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20FDAFC-5079-4583-87F6-152F89C45890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20FDAFC-5079-4583-87F6-152F89C45890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20FDAFC-5079-4583-87F6-152F89C45890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20FDAFC-5079-4583-87F6-152F89C45890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A14AB9-782E-4456-BF65-40CEDC4E02C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A14AB9-782E-4456-BF65-40CEDC4E02C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A14AB9-782E-4456-BF65-40CEDC4E02C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A14AB9-782E-4456-BF65-40CEDC4E02C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B105AD9-D250-42F1-A52F-581A8FF48D87}
+	EndGlobalSection
+EndGlobal
