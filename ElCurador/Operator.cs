@@ -43,7 +43,7 @@
 
         private int Multiply(int valor)
         {          
-            int product = valor * 8;
+            int product = valor * 9;
             var sum = addition.SumDigits(product);
             return substraction.Execute(sum);
         }
